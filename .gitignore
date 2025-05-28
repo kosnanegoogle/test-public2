@@ -1,6 +1,6 @@
-df/
 
-*.file
+
+*file*
 
 *test-stash.py
 ignore/
