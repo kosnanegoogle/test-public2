@@ -2,4 +2,5 @@ df/
 
 *.df
 
+*test-stash.py
 ignore/
