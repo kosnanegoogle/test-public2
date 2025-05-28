@@ -1,0 +1,23 @@
+[33mcommit c469401f53ef6d8520944ed69d4c257d967923bb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtest-stash[m[33m, [m[1;32mtest-restart[m[33m, [m[1;32mmaster[m[33m)[m
+Author: kalantar <fakemailuserq@gmail.com>
+Date:   Tue May 20 04:36:32 2025 -0700
+
+    creat comflict 2
+
+[33mcommit a0ba19e55680fdbe21ad6768d4a1ceeb47feb8e8[m
+Author: kalantar <fakemailuserq@gmail.com>
+Date:   Tue May 20 04:25:29 2025 -0700
+
+    creat comflict
+
+[33mcommit 98c5383460de231c8c3f0b1bcabb26b7ea47ae1f[m
+Author: kalantar <fakemailuserq@gmail.com>
+Date:   Tue May 20 04:04:53 2025 -0700
+
+    on file change
+
+[33mcommit d9a9d4a1926285984d7028ca2b10e7982fbc83a6[m
+Author: kalantar <fakemailuserq@gmail.com>
+Date:   Sat May 17 04:30:32 2025 -0700
+
+    initial commit
