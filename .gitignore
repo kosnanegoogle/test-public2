@@ -1,6 +1,6 @@
 *.gitignore
 
 *file*
-
+*.txt
 *test-stash.py
 ignore/
